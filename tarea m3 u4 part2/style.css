@@ -9,4 +9,7 @@ div{
 .div2{background-color: black;}
 .div3{background-color: blue;}
 
-
+textarea{
+    border: 1px solid gray;
+    
+}
